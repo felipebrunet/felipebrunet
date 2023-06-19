@@ -59,10 +59,7 @@ description: Perfil profesional de Felipe Brunet
 <div align="center">
 <details><summary>Detalles Github</summary>
   <a href="https://github.com/felipebrunet">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipebrunet&theme=transparent" style="clip-path: inset(0px 450px 0px 0 round 50px);"/>
-  </a><br>
-    <a href="https://github.com/felipebrunet">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipebrunet&theme=transparent" style="clip-path: inset(0px 0px 0px 230px); margin-left:-220px"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipebrunet&theme=transparent" />
   </a><br>
   <a href="https://github.com/felipebrunet">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipebrunet&hide_border=true&card_width=338&theme=transparent" />
