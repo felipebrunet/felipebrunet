@@ -1,8 +1,3 @@
----
-description: Perfil profesional de Felipe Brunet
----
-
-
 <h1 align="center">Hola!<img src="/assets/images/hello.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
@@ -57,7 +52,6 @@ description: Perfil profesional de Felipe Brunet
 <!-- - ⚡ Fun fact: ... -->
 
 <div align="center">
-<details><summary>Detalles Github</summary>
   <a href="https://github.com/felipebrunet">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipebrunet&theme=transparent" />
   </a><br>
@@ -70,7 +64,6 @@ description: Perfil profesional de Felipe Brunet
   <a href="https://github.com/felipebrunet">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebrunet&langs_count=10"/>
   </a><br>
-  </details>
 
 </div>
 
