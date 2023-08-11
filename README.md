@@ -44,8 +44,8 @@
 
 
 - 🔭 I’m currently working on an Android POS app and a Wordpress plugin for btc payments
-- 🌱 I’m currently learning Kotlin, Jekyll and PHP
-- 👯 I’m looking to collaborate on Ecommerce
+- 🌱 I’m currently learning Kotlin and Hugo.
+- 👯 I’m looking to collaborate on Ecommerce.
 <!-- - 🤔 I’m looking for help with . -->
 - 💬 Ask me about anything
 - 📫 How to reach me: email me at felipe.brunet@gmail.com
