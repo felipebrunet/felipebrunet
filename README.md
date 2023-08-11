@@ -37,6 +37,7 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![Jekyll](https://img.shields.io/badge/jekyll-black?style=for-the-badge&logo=jekyll)
+![Hugo](https://img.shields.io/badge/hugo-black?style=for-the-badge&logo=hugo)
 
 ### Sistemas operativos
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
