@@ -44,10 +44,9 @@
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
 
-- 🔭 I’m currently working on an Android POS app and a Wordpress plugin for btc payments
+- 🔭 I’m currently working on an Android POS app and a Wordpress plugin for btc payments.
 - 🌱 I’m currently learning Kotlin and Hugo.
-- 👯 I’m looking to collaborate on Ecommerce.
-<!-- - 🤔 I’m looking for help with . -->
+- 👯 I’m looking to collaborate on Ecommerce payment gateways.
 - 💬 Ask me about anything
 - 📫 How to reach me: email me at felipe.brunet@gmail.com
 <!-- - ⚡ Fun fact: ... -->
